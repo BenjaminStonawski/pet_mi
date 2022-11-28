@@ -1,0 +1,31 @@
+body {
+    background-color: #080808;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.kezdo1 {
+    height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/homegif.gif") no-repeat;
+    background-size: cover;
+    position: relative;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
+.jumbotron {
+    position: absolute;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+}
+
+.homelogo {
+    width: 150px;
+}
