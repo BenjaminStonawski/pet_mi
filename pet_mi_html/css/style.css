@@ -58,7 +58,7 @@ h1 {
     margin: 25px;
 }
 
-.w500 {
-    width: 500px;
+.content-image {
+    width: 100%;
     border-radius: 25px;
 }
