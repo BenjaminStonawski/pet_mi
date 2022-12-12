@@ -4,16 +4,6 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-a {
-    text-decoration: none;
-    color: gray;
-    font-style: italic;
-}
-
-a:hover {
-    color: #4040;
-}
-
 p {
     font-size: 17px;
 }
@@ -29,7 +19,7 @@ p {
 
 .rect{
   width: 100%;
-  height: 3vh;
+  height: 28px;
 }
 
 h1 {
@@ -81,5 +71,37 @@ hr {
 }
 
 .footer-left {
-    margin-left: 100px
+    text-align: right;
+}
+
+.footer-right {
+    text-align: left;
+}
+
+.footerLink {
+    text-decoration: none;
+    color: gray;
+    font-style: italic;
+}
+
+.footerLink:hover {
+    color: #4040;
+    transition: 0.3s;
+}
+
+.footerList {
+    list-style-type: none;
+}
+
+.flex {
+    display: flex;
+}
+
+@media screen and (max-width: 575px) {
+    .footer-left {
+        text-align: center;
+    }
+    .footer-right {
+        text-align: center;
+    }
 }
