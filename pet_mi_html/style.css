@@ -19,7 +19,7 @@ p {
 
 .rect{
   width: 100%;
-  height: 3vh;
+  height: 27px;
 }
 
 h1 {
@@ -85,7 +85,7 @@ hr {
 }
 
 .footerLink:hover {
-    color: #404040;
+    color: #4040;
     transition: 0.3s;
 }
 
