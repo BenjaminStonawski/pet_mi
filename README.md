@@ -5,4 +5,4 @@
 Stonawski Benjamin (10. B)
 
 # Weboldal
-https://htmlpreview.github.io/?https://github.com/BenjaminStonawski/pet_mi/blob/main/pet_mi_html/index.html
+Gyors előnézet: https://htmlpreview.github.io/?https://github.com/BenjaminStonawski/pet_mi/blob/main/pet_mi_html/index.html
