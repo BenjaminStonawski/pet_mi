@@ -29,7 +29,7 @@ h1 {
 
 .kezdo1 {
     height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url("homegif.gif") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url("https://benjike.hu/img/homegif.gif") no-repeat;
     background-size: cover;
     position: relative;
     border-bottom-left-radius: 200px;
