@@ -36,6 +36,14 @@ h1 {
     border-bottom-right-radius: 200px;
 }
 
+.kezdo2 {
+    height: 500px;
+    background-size: cover;
+    position: relative;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
 .kezdo1Home {
     position: absolute;
     width: 300px;
@@ -105,3 +113,4 @@ hr {
         text-align: center;
     }
 }
+
